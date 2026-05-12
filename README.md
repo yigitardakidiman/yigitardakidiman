@@ -1,24 +1,24 @@
-<h1 align="center">Hey 👋 What's up?</h1>
+<h1>Hey 👋 What's up?</h1>
 
 ###
 
-<p align="center">My name is Yiğit Arda Kıdıman and I'm just a software engineering student, from Türkiye</p>
+<p>My name is Yiğit Arda Kıdıman and I'm just a software engineering student, from Türkiye</p>
 
 ###
 
-<h2 align="center">About me</h2>
+<h2>About me</h2>
 
 ###
 
-<p align="center">✨ Creating bugs since 2025<br>📚 I'm currently learning Python / C</p>
+<p>✨ Creating bugs since 2025<br>📚 I'm currently learning Python / C</p>
 
 ###
 
-<h2 align="center">Social Media</h2>
+<h2>Social Media</h2>
 
 ###
 
-<div align="center">
+<div>
   <a href="https://www.linkedin.com/in/yi%C4%9Fit-arda-kidiman-700271323/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -30,7 +30,7 @@
 
 ###
 
-<h2 align="center">Language and Tools</h2>
+<h2>Language and Tools</h2>
 
 ###
 
