@@ -1,16 +1,14 @@
-```text
-                                                                                                                  yigitardakidiman@github
-                                                                                                                  ------------
-                                                                                                                  OS: ..................... Ubuntu Linux, macOS, Web
-                                                                                                                  Uptime: ................. 1 years, 7 months, 12 days
-                       %$$$%qYx~                 ,_)xvczzcvn/}<                                                   Host: ................... Freelance / Open Source
-                        |$$*mba&$$Baw0Q0Zb*&$$$$$&*ahkhhhhhhhhhkaM$$$*Zc{                                         Location: ............... Earth
-                         $$$$oOQLQOwdddddqZ0QLQQQLLLLQQQQQQQQQQQQQQQLOdh&$h(                                      Bio: .................... just a sofwtare engineering student
-
-                         J$kh8$WqQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ0k@$L;                                   GitHub.Repos: ........... 13 Public Repos
-                         ;$Bppk8$@hZQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQZ&$bi                                 GitHub.Followers: ....... 8 Followers
-                         ,$$ppppbo%$%*ZQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQLmh@a0"                              GitHub.Stars: ........... 1 Total Stars
-                         ;$Bpppppppdh%$$WW8888888&8&WhZQQQQQQQQQQQQQQQQQQQQQQQQQ0q&$kC                       n    Website: ................ https://www.kidiman.com/
+                                                                                                              
+                                                                                                              
+                                                                                                              
+                                                                                                              
+                       %$$$%qYx~                 ,_)xvczzcvn/}<                                               
+                        |$$*mba&$$Baw0Q0Zb*&$$$$$&*ahkhhhhhhhhhkaM$$$*Zc{                                     
+                         $$$$oOQLQOwdddddqZ0QLQQQLLLLQQQQQQQQQQQQQQQLOdh&$h(                                  
+                         J$kh8$WqQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ0k@$L;                               
+                         ;$Bppk8$@hZQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQZ&$bi                             
+                         ,$$ppppbo%$%*ZQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQLmh@a0"                          
+                         ;$Bpppppppdh%$$WW8888888&8&WhZQQQQQQQQQQQQQQQQQQQQQQQQQ0q&$kC                       n
                          @$dpppppppppppko$$$pqwwwqpdph%$$Bb0QQQQQQQQQQQQQQQQQQQQQQQQqa$$qv                  :$
                        )$$bppppppppppppppph#$%bQQQQQQQQQmdB$%ZQQQQQQQQQQQQQQQQQQQQQQQQLmda$$pmXl            #$
                      _o$hpppppppppppppppppppp*$80QQQQQQQQQQm8$@mQQQQQQQQQQQQQQQQQQQQQQQQQQQQwpo$$$#pmt     u$m
@@ -57,4 +55,14 @@ QQQQQQQQQQQQqW$8op0QQQQQQQQQLQQQQQQZdha#&$$$$$$$%#MM&B$$$$@&#**o#M@$$W*dLQQQQQQm
 QQQQQQQQQQQQQQQbM$$$&ooaaaaaao#8$$$$&$$$pQQLLQo&$$WapOQQLQOqkaaakq0QLQQLQQQZbM$$WZQQQQB$ZQQQQQQQQQQQ0p*$$WqQLQ
 QQQQQQQQQQQQQQQQQQQQmho*****obwOQQQQQQb@$*QQQQLQQ0d*&$$$8*oabqmZZOmqdao*8$$$MkZQQQQQQQLQQQQQQQQLLZk8$BoZQQLQQQ
 LLLLLLLLLLLLLLLLLLLLLLLLQLLLLLLLLLLLLLQQq%$#ZQLLQQQQQQQZphooo*MW&&W#*ooadZLLQQQQLLLQQQQQQQQQQQm*B$&kZLQQLLLLLL
-```
+yigitardakidiman@github
+------------
+OS: ..................... Ubuntu Linux, macOS, Web
+Uptime: ................. 1 years, 7 months, 12 days
+Host: ................... Freelance / Open Source
+Location: ............... Earth
+Bio: .................... just a sofwtare engineering student
+GitHub.Repos: ........... 13 Public Repos
+GitHub.Followers: ....... 8 Followers
+GitHub.Stars: ........... 1 Total Stars
+Website: ................ https://www.kidiman.com/
