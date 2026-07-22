@@ -1,1 +1,1 @@
-<img src="http://localhost:3000/api/svg?user=yigitardakidiman&theme=dracula" alt="Neofetch Terminal" />
+<img src="https://gitfetch-readme-generator.vercel.app/api/svg?user=yigitardakidiman&theme=dracula" alt="Neofetch Terminal" />
