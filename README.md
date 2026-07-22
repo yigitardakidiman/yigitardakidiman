@@ -1,42 +1,60 @@
 ```text
-                                                                               yigitardakidiman@github
-                                                                               ------------
-                                                                               OS: ..................... Ubuntu Linux, macOS, Web
-                d$kM$8aQ];,l1cwaoMB$$$$$$$B#aaq\                               Uptime: ................. 1 years, 7 months, 12 days
-                 $@$wQL0mwwwZQQLQQLLQQQQQQQQQQLOqW$x                           Host: ................... Freelance / Open Source
-                 |%po$8QQQQQQQQQQQQQQQQQQQQQQQQQQQQw$h                         Location: ............... Earth
-                 ?$ppph%$#LQQQQQQQQQQQQQQQQQQQQQQQQQLm**c                      Bio: .................... just a sofwtare engineering student
+                                                                                                                  yigitardakidiman@github
+                                                                                                                  ------------
+                                                                                                                  OS: ..................... Ubuntu Linux, macOS, Web
+                                                                                                                  Uptime: ................. 1 years, 7 months, 12 days
+                       %$$$%qYx~                 ,_)xvczzcvn/}<                                                   Host: ................... Freelance / Open Source
+                        |$$*mba&$$Baw0Q0Zb*&$$$$$&*ahkhhhhhhhhhkaM$$$*Zc{                                         Location: ............... Earth
+                         $$$$oOQLQOwdddddqZ0QLQQQLLLLQQQQQQQQQQQQQQQLOdh&$h(                                      Bio: .................... just a sofwtare engineering student
 
-                 LWppppppkM$$$$$$$$$$WaQQQQQQQQQQQQQQQQQpB8z              Q    GitHub.Repos: ........... 13 Public Repos
-                o@dpppppppppdW$kQQQQQQqo$aLQQQQQQQQQQQQQQQQmo$Mz|        :$    GitHub.Followers: ....... 8 Followers
-              Y$bppppppppppppbM$$0QQQQQQQh$hQQQQQQQQQQQQQQQQQQLLmo*%$mr~ Bp    GitHub.Stars: ........... 1 Total Stars
-           `k$kppppppppppp#$$$$$#$ZQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQLLb$$m    Website: ................ https://www.kidiman.com/
-         `p@kqppppppppph$$$at    uB0LQQQQQQQQQQQQQQQQQQQ&$#bQQLQQQQQQQQQLk&
-        C$hppppppppppk$$$Y        kowhmZqdpw0QLQQQQQQQQQQQQd8$bQQQQQQQQQ0$d
-      .$Wqpppppppppp$$$|          ^B@$p$bZwkW8B$*qQLQQQQQQQQQQp$%QLQQQLZ$*Q
-      LWpppppppppppB$%              J$  &k8$$$hqQp%$dmQQQQQQQQQQp$MLQQ&$ZQQ
-     "$ppppppppppp$$$:                   \$q0QQm%@wQLp8@8QQQQQQQLLp$B$kLQQQ
-     z%ppppppppppb$$!                      `w#B$bQp#QQQQQQQQQQQQQQQQ*$OQQQQ
-      $ppppppppppo$$                            -$0QQQO$@0LQQQQQQQQQM$QQQQQ
-      XBqppppppppW$w                    c$B      $ma@dO$ b$QQQQQQLL$$MLQQQQ
-      <$opppppppp%$L                                $km#  <$QQQQQO$QWWQQQQQ
-       $WppppppppM$h            C@$$$$Y             $#$}  :$ZLQL8$QLWaQQQQQ
-       $&ppppppppo$$   u$h   C$$$@1`.               :/    ;$LLd$wQQQ&wQQQQQ
-       $Mppppppppp$$%                                     $pw$#QQQQQ$LLQQQQ
-      ($ppppppppppb$$n                                  l$B$hQQQQQ0%@QLQQQQ
-      $bpppppppppppo$$X                                8$hwLQQQQL8%$aQQQQQQ
-J`  '$Wppppppppppppqh$$a                             }h#QQQQLoML@kb$ZQQQQQQ
-0h%fC&pppppppppppppppb$$$U                       rJ@MpLQQQQQq$w$#0$pQQQQQQQ
-QQQ$@pppppppppppppppppph$$$p{               IU$WhZLQQQQQQQQQd$b$Q$MQQQLawQQ
-QQw$opphB$#ppppppppppppppd&$$$p|         :0$aQQQQQQQQQQQQQQL$q$Zk$0QQQQ0B@Z
-QQd$b8$o*$ppppppppppppppppppk&$$$$mf1` x$a0QQQQQQQQQQQQQQQ0B&W8Q$OQQQQQQQO$
-QQb$80*p#%ppppppppppppppppppppqpa8@$$$%ZQQQQQQQQQQQQQQQQQdZLq$mBWQQQQQQQQQQ
-QQQQQQ@Q8ah*##kppppppppppppppppppp#$oQQQQQQQQQQQQQQQQQQQa@LQ8hm$hQQQQQQQQQQ
-QQQQQL$Q&$bQQOM%$8kpppppppppppbo$BqLQQQQQQQQQQQQQQQQQQQ%BLQaMQk$LQQQQQQQQQQ
-QQQQQ0@QQQQQb$$*pb$$Waaaoo%$$BWOLQQQQQQQQQQQQQQQQQQQLm$bQQQQQO$0QQQQQQQQQQQ
-QQQQQL$pLQQQQQLQQQQmppw0QLLQQLQQQQQQQQQQQQQQQQQQQQQZ$%LLQQQQZ$hQQQQQQQQQQQQ
-QQQQQQZ$#QQQQQQQQQQQQQQQQQQQQQQLQQQQQQQQQQQQQQQLOa$&LQQQQQQL$dLLQQQQQQQQQL0
-QQQQQQQLk$MZQQQQQQQQQQQQ0Zwa$$$$$$$$$$$Bopwqb%$$&LQQQQOQQQQB%QQQQQQQQQQOW$%
-QQQQQQQQQQLp$$$$$$$$$$$$ho$hQQQQk$$@qOQLLLLLLLLLL00k$$WLQQZ$QQQQQQQQm$$#QQQ
-QQQQQQQQQQLQQQQQQQQQQQQQQQ0h$bQQQQLQLO#$$$$$$$$$$#QQQQQQQQQQQQQQQp$$qQQQQQQ
+                         J$kh8$WqQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ0k@$L;                                   GitHub.Repos: ........... 13 Public Repos
+                         ;$Bppk8$@hZQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQZ&$bi                                 GitHub.Followers: ....... 8 Followers
+                         ,$$ppppbo%$%*ZQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQLmh@a0"                              GitHub.Stars: ........... 1 Total Stars
+                         ;$Bpppppppdh%$$WW8888888&8&WhZQQQQQQQQQQQQQQQQQQQQQQQQQ0q&$kC                       n    Website: ................ https://www.kidiman.com/
+                         @$dpppppppppppko$$$pqwwwqpdph%$$Bb0QQQQQQQQQQQQQQQQQQQQQQQQqa$$qv                  :$
+                       )$$bppppppppppppppph#$%bQQQQQQQQQmdB$%ZQQQQQQQQQQQQQQQQQQQQQQQQLmda$$pmXl            #$
+                     _o$hpppppppppppppppppppp*$80QQQQQQQQQQm8$@mQQQQQQQQQQQQQQQQQQQQQQQQQQQQwpo$$$#pmt     u$m
+                   c&$oppppppppppppppppppa@$$$$$$dQQQQQQQQQQLZkh0QLQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ0mqdW$@b|@$Q
+                 U$$hdppppppppppppppqpW$$$$$$$8qa$pQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQLQQQQQQQQQQQQQQQQQQQLOq$$BQ
+               c$$apppppppppppppppqo@$$$$$[I    ;@%0QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQMB%dQQQQQQQQQQQQQQQQQQQQQh$h
+             u$%hppppppppppppppppM$$$$$[         +$&LQQQQQQQQQQQQQQQQQQQQQQQQQQQQQLmmM$$$pQLLLQQQQQQQQQQQQQq$h
+           ]*$opppppppppppppppp#$$$$xI            n$hb$%dwh#&&WopOQLQQQQQQQQQQQQQQQQQQQOm@$@hLQQQQQQQQQQQQ0$$Q
+          )@8dqpppppppppppppph$$$$L,              :Z%W$$$$8abbhM@$$$$$&mQQQQQQQQQQQQQQQQQQ0k$$MQQQQQQQQLQw$$mQ
+         1$&pppppppppppppppph$$$k+                  c$$f c$WOLQQQQLLQmpB$$#QLQQQQQQQQQQQQQQQLw&$#0QQQQQQW$bLQQ
+        -88dppppppppppppppph$$$mI                    ;Un   m$$$$$$$$$$oLQZh$$$MwQQQQQQQQQQQQQQ0d$$aQQLa$%wQQQQ
+        |$*ppppppppppppppqk$$$k<                            1%$mLLQQOw&$8pLQQZhB$$$wQQQQQQQQQQLLQk$$W%$kQQLQQQ
+       Iq%dqppppppppppppppa$$$r                               ,%$$@a0LQLd$$BpQQQQLQQQQQQQQQQQQQQQQQ0#$8mQQQQQQ
+       ;mBkppppppppppppppk$$$L                                     lX$$BqQQ0LQQQLQQLLQQQQQQQQQQQQQQL#$kQQQQQQQ
+        ($#ppppppppppppppb$$$L                                         z$dQQQQQQW$$mQLQQQQQQQQQQQQQ0M$bQQQQQQQ
+        -88pqppppppppppppa$$W[                             v$$c        i$&QQQQQL&$cW$pQLQQQQQQQQQLL*$BqQQQQQQQ
+         \$MppppppppppppdW$$p                              18${        i$$$$$$hL&$> }%@QQQQQQQQLCd$$$@wLQQQQQQ
+         id$opppppppppppd&$$q                                               t$b08o;   $$QQQQQQQ0a$*O&@qQQQQQQQ
+          t$Mpppppppppppp*$$k;                    _b$$$$|                   t$h#$_    B$Q0QQQQp$$kL0W%mQQQQQQQ
+          /$Wdpppppppppppk$$$u     uL;      u$$$$$$$$$$$1                   /$$$/     k$wLLQO#$MLLQO&MOLQQQQQQ
+          /$Wdpppppppppppk$$$C    v$$d:    M$$$$Bp]                          _{       @$LQCw$$wLQQQm8o0QQQQQQQ
+          t$Mpppppppppppppo$$*?                                                      x$dLm$$kQQQQQQp@kQQQQQQQQ
+         ,Q$*ppppppppppppph$$$Q                                                     h$w0$$MOQQQQQQQa$kQQQQQQQQ
+         ($Mpppppppppppppppa$$$U                                                  :*$B$$bQQLQQQQQO#$%wLLQQQQQQ
+        <a8bpppppppppppppppp*$$$v                                                w$$$B0LLQQQQQQQa$$$hQQQQQQQQQ
+       :Z@hqpppppppppppppppppo$$$X                                              L$$ZQQQQQQQ0LQq$@bo$bQQQQQQQQQ
+$p,    J$#qppppppppppppppppppqo$$$$)                                         "J$$qLQQQQQLZ$$Qq$&Qh$*0QQQQQQQQQ
+L8$8? }$Wpppppppppppppppppppppph@$$$Ji                                   :}a$$#mQQQQQQQQQ8$ow$&Lm&$dQQQQQQQQQQ
+QQQZ$$$8ppppppppppppppppppppppppq*$$$$%]                            lf$$$Bo0LQQQQQQQQQQQ0$$ZB$wOo$hLQQQQQQQQQQ
+QQQQw$@dppppppdpppppppppppppppppppp#$$$$$W>                     Iv$$%kQQQQLQQQQQQQQQQQQQw$Bw$a0a$*QQQQQLo$bQLQ
+QQQ0#$MpppdkW$$oppppppppppppppppppppqk%$$$$$Zi,              lx$@B0LQQQQQQQQQQQQQQQQQQQL$$w$BQp$W0QQQQQQQa$$qQ
+QQQm$$qpbW$$$$Bkppppppppppppppppppppppqph@$$$$$$Ji         \W@MOQLQQQQQQQQQQQQQQQQQQQQLo$hb$ZZ&$dQQQQQQQQQQW$M
+QQQm$B#$$$*Q#$*pppppppppppppppppppppppppppddB$$$$$$$$&U]_q$&m0QQQQQQQQQQQQQQQQQQQQQQQQk$#Z$$Qd$WQLQQQQQQQQQLL8
+QQQw$$$h0*&mM$apppppppppppppppppppppppppppppqppa%@$$$$$$@kOQQQQQQQQQQQQQQQQQQQQQQQL0qO0L08$pm$%OQQQQQQQQQQQQQQ
+QQQO#ZQLZW*m%8dppppppppppppppppppppppppppppppppppqqhB$&q0QQQQQQQQQQQQQQQQQQQQQQQQQQ%$k0LZ$8Qp$&LQQQQQQQQQQQQQQ
+QQQLLQQQb$*qB%M$$$$$$&ohppppppppppppppppppppppppdM$$hLLQQQQQQQQQQQQQQQQQQQQQQQQQQ0%$qLCO$$LZ$@ZLQQQQQQQQQQQQQQ
+QQQQQQQLk$bZ8$BpQQQQb&8$$%abppppppppppppppppda#$$&dLQQQQQQQQQQQQQQQQQQQQQQQQQQQQw@$mLLQMB0Qw$&LQQQQQQQQQQQQQQQ
+QQQQQQQQhBqq#dQQQQmbdpm0ZMB$$odpppppppbao#@$$$WpQQQQQQQQQQQQQQQQQQQQQQQQQQQQLQQd$BZLLLQQQLO$@QQQQQQQQQQQQQQQQQ
+QQQQQQQQk$kLLQQQQQ0aMWB$$$$$$$$$$$$$$$@&&owQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQLwB$bQQQQQQQQ08$wLQQQQQQQQQQQQQQQQ
+QQQQQQQQq@%wQQQQQQQQLLLQQQQ0ZwwwwZ0QQQLQQQLLQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQw&$WmLLLQQQQQL&$aLQQQQQQQQQQQQQQQQQ
+QQQQQQQQLd$%qQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQLLQQQQQQQQQQQQQQQQQQQQQQQQQOb8$WqQQQQQQQQQLk$*QLLQQQQQQQQQQQQQQLQ
+QQQQQQQQQLm&$WZLQQQQQQQQQQQQQQQQQQQQQQQQQQQQ0ZqdbkkbdmOQQQQLQQQQQQQQ0dh@$%b0QQQQQQQQQQLb$oQQQQQQQQQQQQQQQQQQkB
+QQQQQQQQQQQQqW$8op0QQQQQQQQQLQQQQQQZdha#&$$$$$$$%#MM&B$$$$@&#**o#M@$$W*dLQQQQQQmm0QQQQm$$LQQQQQQQQQQQQQLqa$$Ma
+QQQQQQQQQQQQQQQbM$$$&ooaaaaaao#8$$$$&$$$pQQLLQo&$$WapOQQLQOqkaaakq0QLQQLQQQZbM$$WZQQQQB$ZQQQQQQQQQQQ0p*$$WqQLQ
+QQQQQQQQQQQQQQQQQQQQmho*****obwOQQQQQQb@$*QQQQLQQ0d*&$$$8*oabqmZZOmqdao*8$$$MkZQQQQQQQLQQQQQQQQLLZk8$BoZQQLQQQ
+LLLLLLLLLLLLLLLLLLLLLLLLQLLLLLLLLLLLLLQQq%$#ZQLLQQQQQQQZphooo*MW&&W#*ooadZLLQQQQLLLQQQQQQQQQQQm*B$&kZLQQLLLLLL
 ```
